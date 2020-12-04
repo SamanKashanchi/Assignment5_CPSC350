@@ -13,8 +13,7 @@ Faculty.h: header
 TreeRode.h: header
 
 # Issue 1: Had a linker issue
-# had a linker issue when compiling so for compiling each file name we had to 
-# g++ -c filename
+# had a linker issue when compiling so for compiling each file name we had to g++ -c filename
 # g++ Faculty.o Student.o main.o -o databaseTest
 # ./databaseTest to run
 
